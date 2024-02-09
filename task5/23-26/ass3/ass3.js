@@ -1,0 +1,1 @@
+console.log(((Number.MAX_SAFE_INTEGER/1000000000000000).toFixed())*2-2); // 90
